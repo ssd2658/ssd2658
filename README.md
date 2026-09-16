@@ -1,8 +1,8 @@
 # Munish Kumar
 
-**Expertise in agents that automate work · iOS & Android products · platform engineering**
+**Expertise in agents that automate work | iOS & Android products | platform engineering**
 
-`~11 years` · `Agentic systems` · `Dev / QA / Support / Marketing agents` · `Agent deployment` · `iOS & Android` · `Bengaluru, India`
+`~11 years` | `Agentic systems` | `Dev / QA / Support / Marketing agents` | `Agent deployment` | `iOS & Android` | `Bengaluru, India`
 
 I design and ship **agents that automate real company work**, and I build the same products for **iOS and Android**. Focus: agentic automation, MCP tool surfaces, Temporal workflows, agent deployment, and Flutter mobile.
 
@@ -12,7 +12,7 @@ I design and ship **agents that automate real company work**, and I build the sa
 
 | Domain | Expertise |
 |--------|-----------|
-| **Agentic automation / MCP** | Shared tool buses, plan → execute → signal loops for IDE and service agents |
+| **Agentic automation / MCP** | Shared tool buses, plan -> execute -> signal loops for IDE and service agents |
 | **Dev agents** | Coding / tool agents, MCP in the IDE, repo-to-run automation |
 | **QA agents** | API specs, Playwright UI evidence, release evidence packs |
 | **Support / ops agents** | Catalogs, Temporal workflows, n8n-backed ops automation |
@@ -20,7 +20,7 @@ I design and ship **agents that automate real company work**, and I build the sa
 | **Agent deployment** | Docker, Kubernetes / kind / VPS, Helm, Vault, GitOps, operable preprod/prod |
 | **Finance / corp automation** | Payroll, docs, identity flows exposed as agent tools |
 | **iOS** | Native-quality Flutter shipping for Apple platforms |
-| **Android** | Flutter apps, Play Store–oriented packaging |
+| **Android** | Flutter apps, Play Store-oriented packaging |
 | **Flutter (web + mobile)** | Design-system UI, feature flags, market streaming across web / Android / iOS |
 | **Platform engineering** | FastAPI, Kafka, workflows, CI/CD, production operability |
 
@@ -28,9 +28,9 @@ I design and ship **agents that automate real company work**, and I build the sa
 
 ## Tech
 
-**Automation & platform:** MCP · Temporal · Python · FastAPI · Docker · Kubernetes · Vault · GitOps · Kafka · n8n · Playwright
+**Automation & platform:** MCP, Temporal, Python, FastAPI, Docker, Kubernetes, Vault, GitOps, Kafka, n8n, Playwright
 
-**Mobile:** Flutter · Dart · Android · iOS
+**Mobile:** Flutter, Dart, Android, iOS
 
 ---
 
@@ -44,4 +44,4 @@ Open to conversations on **agentic systems**, **mobile products**, and **platfor
 
 ---
 
-<sub>Previously: application development & DevOps at Maersk · Blue Yonder · TCS (~11 years).</sub>
+<sub>Previously: application development and DevOps at Maersk, Blue Yonder, and TCS (~11 years).</sub>
